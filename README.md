@@ -1,2 +1,0 @@
-# Computer-Code-STABGCN-Inversion
-This repository contains the implementation of a Closed-Loop Deep Learning Fusion Network (STABGCN) for predicting natural gamma and neutron porosity from elastic parameter waveforms. The code includes both forward and inverse STABGCN models as Jupyter notebooks, along with well log data used in the experiments. These models demonstrate how deep learning approaches can effectively analyze waveform structures of elastic parameters for geophysical property prediction in well logging applications.
